@@ -1,3 +1,7 @@
+## Version 1.0.2
+
+* Some small adjustments
+
 ## Version 1.0.1
 
 * Fixed screenshot
