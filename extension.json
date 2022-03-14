@@ -1,11 +1,11 @@
 {
-    "identifier": "eu.devbuzz",
+    "identifier": "eu.devbuzz.mariana-nova-theme",
     "name": "Mariana Nova Theme",
     "organization": "DevBuzz",
-    "description": "Theme ported from Sublime Text 4",
+    "description": "Unofficial Sublime Text 4 theme port for Nova",
     "repository": "https://github.com/widersky/nova-mariana-theme",
     "bugs": "https://github.com/widersky/nova-mariana-theme/issues",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "license": "MIT",
     "categories": ["themes"]
 }

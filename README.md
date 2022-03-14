@@ -1,10 +1,10 @@
 # Mariana Nova
 
-Sublime Text 4 default theme ported. Supports Italics.
+Unofficial Sublime Text 4 theme port for [Nova](https://nova.app). Supports Italics.
 
 ![screenshot](https://github.com/widersky/nova-mariana-theme/blob/main/Images/screenshot.png?raw=true)
 
-Font used: Operator Mono
+Font used on screenshot above: Operator Mono
 
 ## Issues?
 

@@ -24,7 +24,7 @@ Silver:             hsl(216, 11%, 66%);
  * Window styles
  */
 meta.window {
-    border-color: hsla(0, 0%, 100%, 0.1);
+    border-color: hsl(207, 16%, 20%);
     background-color: hsl(207, 12%, 15%);
 }
 meta.titlebar {
@@ -67,7 +67,7 @@ meta.textfield.highlighted {
  */
 meta.document {
     background-color: hsl(207, 16%, 22%);
-    border-color: hsla(0, 0%, 100%, 0.1);
+    border-color: hsl(208, 10%, 34%);
 }
 
 meta.document.button {
@@ -140,7 +140,7 @@ bracket {
 
 /* ->, => */
 operator {
-    color: hsl(216, 11%, 66%);
+    color: hsl(9, 88%, 64%);
 }
 invalid {
     background-color: hsl(9, 88%, 64%);
@@ -185,7 +185,8 @@ keyword.self.prefix {
 
 /* Values */
 value.boolean {
-    color: hsl(304, 35%, 69%);
+    color: hsl(353, 81%, 62%);
+    font-style: italic;
 }
 value.null {
     color: hsl(353, 81%, 62%);
@@ -224,7 +225,7 @@ identifier.property.prefix {
 identifier.decorator,
 identifier.function,
 identifier.method {
-    color: hsl(205, 53%, 57%);
+    color: hsl(178, 45%, 48%);
 }
 identifier.key {
     color: hsl(304, 35%, 69%);
@@ -256,7 +257,7 @@ string-keyword {
     color: hsl(30, 100%, 90%);
 }
 string-template {
-    color: hsl(30, 100%, 65%);
+    color: hsl(210, 49%, 90%);
 }
 regex {
     color: hsl(30, 100%, 65%);
@@ -308,11 +309,14 @@ definition.struct.name {
 
 /* Members */
 definition.property.name {
-    color: hsl(205, 53%, 57%);
+    color: hsl(210, 49%, 90%);
+}
+definition.property.prefix {
+    color: hsl(178, 45%, 48%);
 }
 definition.function.name,
 definition.method.name {
-    color: hsl(178, 45%, 49%);
+    color: hsl(178, 45%, 48%);
 }
 
 /* Tags */
@@ -320,13 +324,13 @@ tag {
     color: hsl(179, 44%, 47%);
 }
 tag.name {
-    color: hsl(9, 88%, 64%);
+    color: hsl(353, 81%, 62%);
 }
 tag.framework {
-    color: hsl(0, 0%, 100%);
+    color: hsl(210, 49%, 90%);
 }
 tag.framework.name {
-    color: hsl(0, 0%, 100%);
+    color: hsl(210, 49%, 90%);
 }
 tag.attribute.name {
     color: hsl(304, 35%, 69%);
@@ -361,7 +365,7 @@ style.selector.element {
     font-weight: bold;
 }
 style.selector.identifier.id {
-    color: hsl(32, 90%, 70%);
+    color: hsl(304, 35%, 69%);
 }
 style.selector.identifier.class {
     color: hsl(304, 35%, 69%);
@@ -370,10 +374,10 @@ style.selector.pseudoclass {
     color: hsl(304, 35%, 69%);
 }
 style.selector.pseudoelement {
-    color: hsl(32, 90%, 70%);
+    color: hsl(210, 49%, 90%);
 }
 style.attribute.name {
-    color: hsl(0, 0%, 100%);
+    color: hsl(210, 49%, 90%);
     font-style: italic;
 }
 style.value.number {
@@ -389,5 +393,5 @@ style.value.color.named {
     color: hsl(304, 35%, 69%);
 }
 style.value.identifier.function {
-    color: hsl(160, 80%, 55%);
+    color: hsl(210, 49%, 90%);
 }
