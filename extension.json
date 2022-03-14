@@ -3,6 +3,8 @@
     "name": "Mariana Nova Theme",
     "organization": "Adrian Widerski",
     "description": "Theme ported from Sublime Text 4",
-    "version": "1.0.0",
+    "repository": "https://github.com/keisto/Monokai-Pro.novaextension",
+    "bugs": "https://github.com/keisto/Monokai-Pro.novaextension/issues",
+    "version": "1.0.1",
     "categories": ["themes"]
 }
