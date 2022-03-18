@@ -1,3 +1,9 @@
+## Version 1.1.0
+
+* Adjusted base colors
+* Refreshed extension icon
+* Added no-italic variant
+
 ## Version 1.0.3
 
 * Adjusted borders color
