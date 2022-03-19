@@ -1,3 +1,7 @@
+## Version 1.1.1
+
+* Adjusted selection color
+
 ## Version 1.1.0
 
 * Adjusted base colors
