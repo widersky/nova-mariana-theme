@@ -1,3 +1,7 @@
+## Version 1.1.2
+
+* Changed extension icon to match rest of my extensions
+
 ## Version 1.1.1
 
 * Adjusted selection color
