@@ -201,7 +201,7 @@ identifier.variable.prefix {
     color: hsl(180, 36%, 54%);
 }
 identifier.property {
-    color: hsl(304, 35%, 69%);
+    color: hsl(215, 31%, 89%);
 }
 identifier.property.prefix {
     color: hsl(240, 100%, 92%);
@@ -212,7 +212,7 @@ identifier.method {
     color: hsl(178, 45%, 48%);
 }
 identifier.key {
-    color: hsl(304, 35%, 69%);
+    color: hsl(215, 31%, 89%);
 }
 identifier.argument {
     color: hsl(304, 35%, 69%);
@@ -311,10 +311,10 @@ tag.name {
     color: hsl(358, 79%, 67%);
 }
 tag.framework {
-    color: hsl(210, 49%, 90%);
+    color: hsl(180, 36%, 54%);
 }
 tag.framework.name {
-    color: hsl(210, 49%, 90%);
+    color: hsl(353, 97%, 68%);
 }
 tag.attribute.name {
     color: hsl(304, 35%, 69%);

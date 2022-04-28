@@ -1,3 +1,7 @@
+## Version 1.1.3 (28.04.2022)
+
+* JSX syntax looks now a lot better
+
 ## Version 1.1.2
 
 * Changed extension icon to match rest of my extensions
